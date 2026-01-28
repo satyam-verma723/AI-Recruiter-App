@@ -164,20 +164,6 @@ ai-voice-agent/
 - Input validation and sanitization
 - Secure database queries
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Connect your GitHub repository to Vercel
-2. Add environment variables in Vercel dashboard
-3. Deploy automatically on push
-
-### Other Platforms
-
-The app can be deployed to any platform supporting Next.js:
-- Netlify
-- Railway
-- DigitalOcean App Platform
 
 ## 🤝 Contributing
 
@@ -187,9 +173,6 @@ The app can be deployed to any platform supporting Next.js:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🆘 Support
 
@@ -206,10 +189,3 @@ Keep dependencies updated and monitor for security updates in:
 - Vapi.ai SDK
 - OpenRouter API (Meta Llama models)
 
-keys:
-NEXT_PUBLIC_SUPABASE_URL=https://xbqucmdbpszfdtemosgj.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhicXVjbWRicHN6ZmR0ZW1vc2dqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjY1OTYyNjksImV4cCI6MjA4MjE3MjI2OX0.yrq7uOkSpoLYKqXRWMJx0rZzc3qPvPjUy4SUf58WEeE
-
-OPENROUTER_API_KEY=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
-NEXT_PUBLIC_HOST_URL=http://localhost:3000/interview
-NEXT_PUBLIC_VAPI=f73f3caa-5bee-42bc-a667-85e194ed2888
